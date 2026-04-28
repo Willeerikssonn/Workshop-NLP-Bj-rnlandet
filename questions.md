@@ -15,3 +15,9 @@ Fördelningen mellan klasserna analyseras genom att räkna antalet dokument per 
 
 sci.med: innehåller medicinska ord som “disease”, “patients” och “treatment”.
 sci.space: innehåller ord kopplade till rymden som “spacecraft”, “mission” och “orbit”. texterna är ganska ostrukturerade men går ändå att sätta in i respektive klass
+
+## Exercise 1.3 ⭐⭐ — Language check
+
+text
+en       49
+empty     1
