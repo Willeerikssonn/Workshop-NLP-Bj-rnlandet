@@ -14,4 +14,4 @@ Fördelningen mellan klasserna analyseras genom att räkna antalet dokument per 
 ## Print 2–3 documents per class. Just read them. What do you notice — vocabulary differences, length, formatting noise, anything?
 
 sci.med: innehåller medicinska ord som “disease”, “patients” och “treatment”.
-sci.space: innehåller ord kopplade till rymden som “spacecraft”, “mission” och “orbit”.
+sci.space: innehåller ord kopplade till rymden som “spacecraft”, “mission” och “orbit”. texterna är ganska ostrukturerade men går ändå att sätta in i respektive klass
