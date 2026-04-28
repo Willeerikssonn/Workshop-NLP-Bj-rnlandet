@@ -1,8 +1,10 @@
 #How many documents do you have?
+
 len(df): 1977
 
 
 #Is the dataset balanced across the two classes?
+
 category
 sci.med      990
 sci.space    987
